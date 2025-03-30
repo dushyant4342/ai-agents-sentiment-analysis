@@ -1,0 +1,6 @@
+snscrape
+transformers
+torch
+llama-cpp-python
+google-search-results
+numpy<=2

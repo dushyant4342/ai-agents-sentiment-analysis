@@ -1,0 +1,13 @@
+Internal Insight Report:
+
+Tweet 1:
+- Sentiment: Positive
+- Praise: OneCard is offering an addon card with a discount of ₹250 in Apay GV on activation. This seems to be a good deal for credit card users.
+- Complaints: No complaints were mentioned in this tweet.
+
+Tweet 2:
+- Sentiment: Negative
+- Praise: None
+- Complaints: OneCard was found to be unsafe as an international fraud transaction was made without clicking on any links. This indicates a potential security issue with the card.
+
+Overall, while Tweet 1 highlights a positive aspect of OneCard, Tweet 2 raises concerns about the card's security. It is important for OneCard to address the issue mentioned in Tweet 2 and assure users of the card's safety.
