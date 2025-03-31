@@ -4,3 +4,6 @@ torch
 llama-cpp-python
 google-search-results
 numpy<=2
+praw #python reddit api wrapper
+pandas
+pytz
