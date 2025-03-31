@@ -1,4 +1,4 @@
-# Sentiment Analysis Agents
+# Sentiment Analysis Agents (Reddit or X)
 This project is a modular AI agent pipeline built to analyze public sentiment around the OneCard ecosystem (including OneScore and FPLTech) across social media — starting with Reddit (with optional Twitter support).
 
 🧩 System Overview
