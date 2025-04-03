@@ -151,3 +151,8 @@ Load time: ~11s → time to load the model into memory
 Prompt eval time: ~10.4s → time to process the prompt
 Eval time: ~10.5s → time to generate the output
 Total time: ~21s → full round-trip (prompt + generation)
+
+
+
+
+
